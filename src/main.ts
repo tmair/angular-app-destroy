@@ -29,7 +29,7 @@ window.performDestroy = function(node, callback) {
   if (appModule) {
     const testability = appModule.injector.get(TestabilityRegistry);
     appModule.destroy();
-    testability.unregisterApplication(node);
+    // testability.unregisterApplication(node);
   }
   appModule = undefined;
   callback();

@@ -27,9 +27,9 @@
     "@ngtools/json-schema" "^1.1.0"
     rxjs "^5.5.6"
 
-"@angular/animations@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-5.2.5.tgz#3e72184321c4979305619c74902b8be92d76db70"
+"@angular/animations@tmair/animations-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/animations-builds/tar.gz/ff1bba4dc68962ba0441f00debf2cbcb61766b3a"
   dependencies:
     tslib "^1.7.1"
 
@@ -96,64 +96,64 @@
   optionalDependencies:
     node-sass "^4.7.2"
 
-"@angular/common@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-5.2.5.tgz#08dd636fa46077d047066b13a1aae494066f6c55"
+"@angular/common@tmair/common-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/common-builds/tar.gz/830decdb906d9d3af7aa141a7df80d5c9c3461b5"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/compiler-cli@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/compiler-cli/-/compiler-cli-5.2.5.tgz#b1988bb2c0a956e7fc163acf8c7d794a07a88d08"
+"@angular/compiler-cli@tmair/compiler-cli-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/compiler-cli-builds/tar.gz/09d34209c486f191e528a4d450713222f7bd7543"
   dependencies:
     chokidar "^1.4.2"
     minimist "^1.2.0"
     reflect-metadata "^0.1.2"
     tsickle "^0.26.0"
 
-"@angular/compiler@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-5.2.5.tgz#5e3b511906048a579fcd007aba72911472e5aa28"
+"@angular/compiler@tmair/compiler-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/compiler-builds/tar.gz/4316cb5662752f60bb89f2917ca78d27cdec5bd8"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/core@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-5.2.5.tgz#24f9cd75c5b2728f2ddd1869777590ea7177bca9"
+"@angular/core@tmair/core-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/core-builds/tar.gz/2445a3861ab5dc29422fcad510114232a7c8c10e"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/forms@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-5.2.5.tgz#2ad7a420c6ef6cd87a34071c5319ec83f7ed56aa"
+"@angular/forms@tmair/forms-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/forms-builds/tar.gz/e04877fc04571f255351d0fe03be7569eaa4c0d8"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/http@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/http/-/http-5.2.5.tgz#1208256e36f0e486d96d10a733fdc8424ffa16bf"
+"@angular/http@tmair/http-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/http-builds/tar.gz/821c99e70cca9f27d8d2b63f8de85fe7759e976c"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/language-service@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-5.2.5.tgz#7c3021f347dd4b28ae0a867700894f3de4930f48"
+"@angular/language-service@tmair/language-service-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/language-service-builds/tar.gz/345aa6b006f4ecb81041ce5b959236515b056302"
 
-"@angular/platform-browser-dynamic@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-5.2.5.tgz#b89df410bd953e2a6843325f9ac3c09a10eadaf0"
+"@angular/platform-browser-dynamic@tmair/platform-browser-dynamic-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/platform-browser-dynamic-builds/tar.gz/e76b701544a1c9d9bdce2febae98b97bd398a6d0"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/platform-browser@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-5.2.5.tgz#eae4af2b742fb901d84d6367cd99f9e88102151f"
+"@angular/platform-browser@tmair/platform-browser-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/platform-browser-builds/tar.gz/caf951732cf8786b1c273ab25ef4dda01d0e00e0"
   dependencies:
     tslib "^1.7.1"
 
-"@angular/router@^5.2.0":
-  version "5.2.5"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-5.2.5.tgz#f8f220d5fb85fc10d60fe606b0f2a64732265142"
+"@angular/router@tmair/router-builds#fix-application-destroy-memory-leak":
+  version "6.0.0-beta.4-e362df110"
+  resolved "https://codeload.github.com/tmair/router-builds/tar.gz/706abd2b6f9ed162583f914574773a0d4740ed11"
   dependencies:
     tslib "^1.7.1"
 
